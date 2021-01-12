@@ -1,6 +1,6 @@
 # Martian-Robots
 
-To run localy clone this repo then run `yarn` to install the dependencies & then run `yarn start` to kick off the app.
+To run locally clone this repo, then run `yarn` to install the dependencies & then run `yarn start` to kick off the app.
 
 To run tests simply run `yarn test`.
 
